@@ -11434,7 +11434,7 @@ video.bg-video {
   color: #343434;
   background-color: #fff;
   padding: 0.7em 0.7em 0.7em 1em;
-  width: 20em;
+  width: 17em;
   /* -webkit-border-radius: 3px;
   -moz-border-radius: 3px; */
   /* border-radius: 3px; */
@@ -11458,7 +11458,7 @@ video.bg-video {
   -moz-border-radius: 3px; */
   /* border-radius: 3px; */
   display: inline-block;
-  margin: 0;
+  margin: 0.3em;
 } /* Button Styles */
 
 :-webkit-input-placeholder {
