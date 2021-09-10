@@ -11337,7 +11337,7 @@ video.bg-video {
 }
 .masthead .masthead-content {
   position: relative;
-  max-width: 40rem;
+  max-width: 50rem;
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
@@ -11451,9 +11451,9 @@ video.bg-video {
   font-size: 1em;
   letter-spacing: 0.03em;
   color: #fff;
-  background-color: #d82e9f;
+  background-color: #2a5555;
   padding: 0.7em 2em;
-  border: 0px solid #d82e9f;
+  border: 0px solid #2a5555;
   /* -webkit-border-radius: 3px;
   -moz-border-radius: 3px; */
   /* border-radius: 3px; */
