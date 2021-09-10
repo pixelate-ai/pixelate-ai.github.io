@@ -11433,7 +11433,8 @@ video.bg-video {
   border: 0px solid #abb0b2;
   color: #343434;
   background-color: #fff;
-  padding: 0.7em 7em 0.7em 1em;
+  padding: 0.7em 0.7em 0.7em 1em;
+  width: 20em;
   /* -webkit-border-radius: 3px;
   -moz-border-radius: 3px; */
   /* border-radius: 3px; */
@@ -11481,7 +11482,7 @@ video.bg-video {
     /* max-width: 100%; */
   }
   #mce-EMAIL {
-    padding: 0.7em 0 0.7em 1em;
+    padding: 0.7em 0.7em 0.7em 1em;
     width: 100%;
     margin: 0;
   }
